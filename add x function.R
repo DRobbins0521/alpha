@@ -4,3 +4,9 @@ add_y <- function(y) {
   return(y)
 
 }
+add_x <- function(x) {
+
+  x <- x + 2
+
+  return(x)
+}
