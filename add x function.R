@@ -1,6 +1,6 @@
-add_x <- function(x) {
+add_y <- function(y) {
 
-  x <- x + 1
-  return(x)
+  y <- y + 3
+  return(y)
 
 }
